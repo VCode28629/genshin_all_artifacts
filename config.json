@@ -1,0 +1,121 @@
+{
+    "sub_stat": {
+        "using": false,
+
+        "HP": 0,
+        "HP_": 0,
+        "Atk": 0.4,
+        "Atk_": 1,
+        "Def": 0,
+        "Def_": 0,
+        "EleMas": 0,
+        "EnerRech_": 0,
+        "CritRate_": 1,
+        "CritDMG_": 1
+    },
+    "Flower": {
+        "main_stat": {
+            "HP": true
+        },
+        "sub_stat": {
+            "HP": 0,
+            "HP_": 0,
+            "Atk": 0.4,
+            "Atk_": 1,
+            "Def": 0,
+            "Def_": 0,
+            "EleMas": 0,
+            "EnerRech_": 0,
+            "CritRate_": 1,
+            "CritDMG_": 1
+        }
+    },
+    "Plume": {
+        "main_stat": {
+            "Atk": true
+        },
+        "sub_stat": {
+            "HP": 0,
+            "HP_": 0,
+            "Atk": 0.4,
+            "Atk_": 1,
+            "Def": 0,
+            "Def_": 0,
+            "EleMas": 0,
+            "EnerRech_": 0,
+            "CritRate_": 1,
+            "CritDMG_": 1
+        }
+    },
+    "Sands": {
+        "main_stat": {
+            "HP_": false,
+            "Atk_": true,
+            "Def_": false,
+            "EnerRech_": false,
+            "EleMas": false
+        },
+        "sub_stat": {
+            "HP": 0,
+            "HP_": 0,
+            "Atk": 0.4,
+            "Atk_": 1,
+            "Def": 0,
+            "Def_": 0,
+            "EleMas": 0,
+            "EnerRech_": 0,
+            "CritRate_": 1,
+            "CritDMG_": 1
+        }
+    },
+    "Goblet": {
+        "main_stat": {
+            "HP_": false,
+            "Atk_": false,
+            "Def_": false,
+            "EleMas": false,
+            "PhysicalDmg_": false,
+            "AnemoDmg_": false,
+            "GeoDmg_": false,
+            "ElectroDmg_": false,
+            "HydroDmg_": false,
+            "PyroDmg_": true,
+            "CryoDmg_": false
+        },
+        "sub_stat": {
+            "HP": 0,
+            "HP_": 0,
+            "Atk": 0.4,
+            "Atk_": 1,
+            "Def": 0,
+            "Def_": 0,
+            "EleMas": 0,
+            "EnerRech_": 0,
+            "CritRate_": 1,
+            "CritDMG_": 1
+        }
+    },
+    "Circlet": {
+        "main_stat": {
+            "HP_": false,
+            "Atk_": false,
+            "Def_": false,
+            "EleMas": false,
+            "Heal_": false,
+            "CritRate_": true,
+            "CritDMG_": true
+        },
+        "sub_stat": {
+            "HP": 0,
+            "HP_": 0,
+            "Atk": 0.4,
+            "Atk_": 1,
+            "Def": 0,
+            "Def_": 0,
+            "EleMas": 0,
+            "EnerRech_": 0,
+            "CritRate_": 1,
+            "CritDMG_": 1
+        }
+    }
+}
